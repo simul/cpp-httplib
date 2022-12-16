@@ -806,3 +806,4 @@ Special Thanks To
 -----------------
 
 [These folks](https://github.com/yhirose/cpp-httplib/graphs/contributors) made great contributions to polish this library to totally another level from a simple toy!
+
